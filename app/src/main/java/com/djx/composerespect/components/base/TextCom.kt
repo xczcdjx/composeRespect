@@ -1,8 +1,7 @@
-package com.djx.composerespect.components
+package com.djx.composerespect.components.base
 
 import android.util.Log
 import androidx.compose.foundation.clickable
-import androidx.compose.foundation.text.BasicText
 import androidx.compose.foundation.text.ClickableText
 import androidx.compose.foundation.text.selection.SelectionContainer
 import androidx.compose.material3.Text
