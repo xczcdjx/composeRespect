@@ -11,6 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
 
+// 堆叠布局
 @Composable
 fun BoxCom(modifier: Modifier = Modifier) {
     // 排列方式
